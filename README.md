@@ -45,6 +45,7 @@ The project was developed to practice frontend design, form handling, backend ro
 
 
 cognifyz-task-2/
+
 ├── views/
 │   └── index.ejs
 ├── public/
