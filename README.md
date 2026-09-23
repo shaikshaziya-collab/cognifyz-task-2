@@ -1,8 +1,8 @@
-# Cognifyz Internship Task 2 — User friendly Feedback Website
+# Cognifyz Internship Task 2 — Form Validation
 
-A Node.js web application that provides a modern and responsive user feedback form. Users can enter their details, submit feedback, and receive a confirmation response through a clean and user-friendly interface.
+A Node.js web application that implements client-side and server-side form validation using JavaScript, Node.js, Express.js, and EJS.
 
-This project was built for the Cognifyz Technologies internship (Task 2).
+This project was developed as part of the Cognifyz Technologies Full Stack Development Internship — Task 2.
 
 ## 🚀 Live Demo
 
